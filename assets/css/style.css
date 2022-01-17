@@ -31,6 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
+
 #preloader {
   position: fixed;
   top: 0;
@@ -484,6 +485,10 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 span {
   color: #cda45e;
+}
+h3 span {
+  color: red;
+   font-family: "Poppins", sans-serif;
 }
 
 #hero h2 {
